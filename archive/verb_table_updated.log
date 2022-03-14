@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.1.22)  13 MAR 2022 20:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.1.22)  14 MAR 2022 15:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -432,7 +432,7 @@ Underfull \hbox (badness 1067) in paragraph at lines 63--63
 Here is how much of TeX's memory you used:
  5533 strings out of 492616
  83158 string characters out of 6129481
- 201120 words of memory out of 5000000
+ 200120 words of memory out of 5000000
  9392 multiletter control sequences out of 15000+600000
  4197 words of font info for 16 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -440,7 +440,7 @@ Here is how much of TeX's memory you used:
 </usr/local/texlive/2019/texmf-dist/fonts/type1/pub
 lic/amsfonts/cm/cmr10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/publi
 c/amsfonts/cm/cmsy10.pfb>
-Output written on verb_table_updated.pdf (1 page, 29181 bytes).
+Output written on verb_table_updated.pdf (1 page, 29069 bytes).
 PDF statistics:
  16 PDF objects out of 1000 (max. 8388607)
  10 compressed objects within 1 object stream
