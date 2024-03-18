@@ -1,7 +1,9 @@
 # Automating Item Specifications from Range ALDs to Support Item Writing
 
 ✚ To reduce costs, we developed a process to automatically generate item specifications.
+
 ✚ Item templates can be created so that any iteration in the PAD will automatically ramify into downstream documents.
+
 ✚ This automation helps content experts create item templates/item specifications more efficiently.
 
 ## Getting Started
@@ -46,9 +48,3 @@ ex. [@DomPizzie](https://twitter.com/dompizzie)
 * 0.1
     * Initial Release
 
-
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
