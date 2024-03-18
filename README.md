@@ -9,42 +9,34 @@
 ## Getting Started
 
 ✚ Inputs:
+
 ⎼ g6_sample_for_NCME.xlsx ⎼ Item_spec_template.TeX
 ⎼ Verb_table_template.TeX
-✚ Process file
+
+✚ Process file:
+
 ⎼ Item_spec.py
-✚ Output files
+
+✚ Output files:
+
 ⎼ Item_spec_updated.TeX (One file per Indicator_ID)
 ⎼ Verb_table_updated.TeX
 
 
-### Installing
+## Installing
 
 * Jinja2, pandas, numpy and os
 
 
-### Executing program
+## Executing program
 
 * Open the python code (item_spec.py) in jupyter notebooks, spyder, or your preferred environment for python and run
-
-```
-code blocks for commands
-```
-
 
 
 ## Authors
 
-Contributors names and contact info
+Jing Chen 
+jingchenhao@gmail.com
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
 
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
 
