@@ -35,10 +35,5 @@
 * Open the python code (item_spec.py) in jupyter notebooks, spyder, or your preferred environment for python and run
 
 
-## Authors
-
-Jing Chen 
-jingchenhao@gmail.com
-
 
 
