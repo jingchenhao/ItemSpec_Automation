@@ -1,37 +1,35 @@
-# Project Title
+# Automating Item Specifications from Range ALDs to Support Item Writing
 
-Simple overview of use/purpose.
-
-## Description
-
-An in-depth paragraph about your project and overview of use.
+✚ To reduce costs, we developed a process to automatically generate item specifications.
+✚ Item templates can be created so that any iteration in the PAD will automatically ramify into downstream documents.
+✚ This automation helps content experts create item templates/item specifications more efficiently.
 
 ## Getting Started
 
-### Dependencies
+✚ Inputs:
+⎼ g6_sample_for_NCME.xlsx ⎼ Item_spec_template.TeX
+⎼ Verb_table_template.TeX
+✚ Process file
+⎼ Item_spec.py
+✚ Output files
+⎼ Item_spec_updated.TeX (One file per Indicator_ID)
+⎼ Verb_table_updated.TeX
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* Jinja2, pandas, numpy and os
+
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
+* Open the python code (item_spec.py) in jupyter notebooks, spyder, or your preferred environment for python and run
+
 ```
 code blocks for commands
 ```
 
-## Help
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
 
 ## Authors
 
@@ -48,13 +46,7 @@ ex. [@DomPizzie](https://twitter.com/dompizzie)
 * 0.1
     * Initial Release
 
-## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-
-## Acknowledgments
-
-Inspiration, code snippets, etc.
 * [awesome-readme](https://github.com/matiassingers/awesome-readme)
 * [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 * [dbader](https://github.com/dbader/readme-template)
