@@ -11,6 +11,7 @@
 ✚ Inputs:
 
 ⎼ g6_sample_for_NCME.xlsx ⎼ Item_spec_template.TeX
+
 ⎼ Verb_table_template.TeX
 
 ✚ Process file:
@@ -20,6 +21,7 @@
 ✚ Output files:
 
 ⎼ Item_spec_updated.TeX (One file per Indicator_ID)
+
 ⎼ Verb_table_updated.TeX
 
 
