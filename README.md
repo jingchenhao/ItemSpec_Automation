@@ -12,9 +12,9 @@
 
 ### Inputs:
 
-⎼ g6_sample_for_NCME.xlsx ⎼ Item_spec_template.TeX
-
-⎼ Verb_table_template.TeX
+⎼ g6_sample_for_NCME.xlsx (data file)
+⎼ Item_spec_template.TeX (LaTex file specifying the item specification template)
+⎼ Verb_table_template.TeX (LaTex file specifying the verb and corresponding item format template) 
 
 ### Process file:
 
