@@ -1,10 +1,12 @@
 # Automating Item Specifications from Range Achievement Level Descriptors (RALDs) to Support Item Writing
 
-* To reduce costs, a process is developped to automatically generate item specifications.
+* To reduce costs, this process is developped to automatically generate item specifications using Python and LaTex.
 
 * Item templates can be created so that any iteration in the RALDs will automatically ramify into downstream documents.
 
 * This automation helps content experts create item templates/item specifications more efficiently.
+
+  
 
 ## Getting Started
 
