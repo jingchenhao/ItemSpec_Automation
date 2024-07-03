@@ -31,7 +31,7 @@
 
 * Jinja2, pandas, numpy and os
 
-
+* LaTex
 ### Executing program
 
 * Open the python code (item_spec.py) in jupyter notebooks, spyder, or your preferred environment for python and run
